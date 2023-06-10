@@ -1,0 +1,7 @@
+CREATE DATABASE a
+
+USE a
+
+CREATE TABLE box(txt int);
+
+SHOW TABLE box
