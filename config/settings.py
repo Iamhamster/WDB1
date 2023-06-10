@@ -148,4 +148,3 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ["https://port-0-wdb1-dcse2bli9yxhgs.sel4.cloudtype.app",]
